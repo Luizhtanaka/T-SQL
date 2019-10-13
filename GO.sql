@@ -1,5 +1,5 @@
 /*
-Separa��o de execu��o em blocos ou lote 
+Separação de execução em blocos ou lote 
 
 GO 
 
